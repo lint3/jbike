@@ -6,3 +6,4 @@
 - Improve my carbon footprint
 
 - Visualize using [derive](https://erik.github.io/derive/)
+- Combine each month using [viking](https://github.com/viking-gps/viking)
