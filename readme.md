@@ -1,9 +1,8 @@
-# Riding Every Road in Logan*
+# Cycling Every road in Logan.
 
-Except for private roads, driveways, and parking aisles.
+- Improve [OSM traces](https://www.openstreetmap.org/#map=14/41.7387/-111.8292&layers=G), of which there were essentially none in Logan
+- Improve my bike maintenance and repair skills
+- Improve my own fitness
+- Improve my carbon footprint
 
-Started 2021-11-10.
-
-## Plotting
-
-Use [derive](https://erik.github.io/derive/)
+- Visualize using [derive](https://erik.github.io/derive/)
