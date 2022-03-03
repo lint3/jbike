@@ -8,3 +8,4 @@
 
 - Visualize using [derive](https://erik.github.io/derive/)
 - Combine each month using [viking](https://github.com/viking-gps/viking) since the above has a bug where it doesn't handle large numbers of files very well
+- Animated GIF using [rainbow-roads](https://github.com/NathanBaulch/rainbow-roads)
