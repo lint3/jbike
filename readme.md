@@ -13,3 +13,9 @@
 - Visualize using [derive](https://erik.github.io/derive/)
 - Combine each month using [viking](https://github.com/viking-gps/viking) since the above has a bug where it doesn't handle large numbers of files very well
 - Animated GIF using [rainbow-roads](https://github.com/NathanBaulch/rainbow-roads)
+
+## Navigation
+
+- Using [osmand](https://osmand.net/)
+    - Custom rendering style to hide driveways, deemphasize parking aisles, etc. [documentation](http://docs.osmand.net/en/main@latest/development/osmand-file-formats/osmand-rendering-style)
+- Using a used Cat S41 smartphone for durability, low cost, and huge battery

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<renderingStyle name="default" depends="" defaultColor="#ebe7e4" version="1">
+<renderingStyle name="jbike" depends="" defaultColor="#ebe7e4" version="1">
 
 	<!--  Documentation of the rendering syntax:
 		Elements:
