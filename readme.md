@@ -19,3 +19,7 @@
 - Using [osmand](https://osmand.net/)
     - Custom rendering style to hide driveways, deemphasize parking aisles, etc. [documentation](http://docs.osmand.net/en/main@latest/development/osmand-file-formats/osmand-rendering-style)
 - Using a used Cat S41 smartphone for durability, low cost, and huge battery
+
+---
+
+![progress_2022-03-02.gif]()
