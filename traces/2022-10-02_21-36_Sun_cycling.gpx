@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd~ 4.2.6" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>2022-10-02_21-36_Sun</name>
+    <time>2022-10-03T03:36:51Z</time>
+  </metadata>
+  <trk>
+    <trkseg>
+      <trkpt lat="41.7568208" lon="-111.8172008">
+        <ele>1391.3</ele>
+        <time>2022-10-03T03:36:48Z</time>
+        <hdop>11.7</hdop>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
